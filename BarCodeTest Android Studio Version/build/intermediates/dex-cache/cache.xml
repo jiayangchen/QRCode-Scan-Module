@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidProject\BarCodeTest\app\libs\zxing.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="D:\AndroidProject\BarCodeTest\app\build\intermediates\transforms\dex\debug\folders\1000\2\zxing_e05e80cd51f2921fa1ff54996552014bda076d67\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidProject\BarCodeTest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5abd32e547905d5eca0b03aa5e7944d1ab62905a">
+        <dex dex="D:\AndroidProject\BarCodeTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0760ea23bcbe67c8b83cfa8733b7c2cdfa1e13ec\classes.dex" />
+    </item>
+    <item
+        jar="D:\AndroidProject\BarCodeTest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5ced303380416c9dbe97934582a8f0e6d9e02490">
+        <dex dex="D:\AndroidProject\BarCodeTest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_99060d36be70db0d0f10e7753b124ae8d5d94c3d\classes.dex" />
+    </item>
+
+</items>

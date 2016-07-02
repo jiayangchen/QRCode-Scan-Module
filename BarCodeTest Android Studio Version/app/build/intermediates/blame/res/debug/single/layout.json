@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\BarCodeTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\AndroidProject\\BarCodeTest\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\AndroidProject\\BarCodeTest\\app\\build\\intermediates\\res\\merged\\debug\\layout\\camera.xml",
+        "source": "D:\\AndroidProject\\BarCodeTest\\app\\src\\main\\res\\layout\\camera.xml"
+    }
+]

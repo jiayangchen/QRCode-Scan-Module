@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\AndroidProject\\BarCodeTest\\app\\build\\intermediates\\res\\merged\\debug\\raw\\realm_properties",
+        "source": "D:\\AndroidProject\\BarCodeTest\\app\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "D:\\AndroidProject\\BarCodeTest\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "D:\\AndroidProject\\BarCodeTest\\app\\src\\main\\res\\raw\\beep.ogg"
+    }
+]

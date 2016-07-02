@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="40107416644651"
+    token="6494683699866798348" >
+
+    <task
+        name="javac"
+        duration="754" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="223" />
+    <task
+        name="verifier"
+        duration="109" />
+
+    <artifact
+        location="D:\AndroidProject\BarCodeTest\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="40107416644651" >
+        <artifact
+            location="D:\AndroidProject\BarCodeTest\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
