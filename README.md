@@ -7,7 +7,6 @@ ZXing for Android
 ![image](http://o9oomuync.bkt.clouddn.com/githubqrcode.jpg)
 
 
-
 1. 修正了图片拉伸的问题
 
 2. 扫描框改成正方形
