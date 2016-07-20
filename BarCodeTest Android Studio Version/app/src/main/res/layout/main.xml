@@ -38,13 +38,18 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="30dp"
-        android:hint="Input the text"/>
+        android:hint="Input Text"/>
     
     <Button
         android:id="@+id/btn_add_qrcode"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="Generate QRcode" />
+    <Button
+        android:id="@+id/btn_add_cancel"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Back Up" />
     
     <ImageView 
         android:id="@+id/iv_qr_image"

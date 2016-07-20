@@ -54,13 +54,21 @@ public class BarCodeTestActivity extends Activity {
 						Bitmap qrCodeBitmap = EncodingHandler.createQRCode(contentString, 350);
 						qrImgImageView.setImageBitmap(qrCodeBitmap);
 					}else {
-						Toast.makeText(BarCodeTestActivity.this, "Text can not be empty", Toast.LENGTH_SHORT).show();
+						Toast.makeText(BarCodeTestActivity.this, "没有内容", Toast.LENGTH_SHORT).show();
 					}
 					
 				} catch (WriterException e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
 				}
+			}
+		});
+
+		Button backupButton = (Button) this.findViewById(R.id.btn_add_cancel);
+		backupButton.setOnClickListener(new OnClickListener() {
+			@Override
+			public void onClick(View v) {
+				BarCodeTestActivity.this.finish();
 			}
 		});
     }

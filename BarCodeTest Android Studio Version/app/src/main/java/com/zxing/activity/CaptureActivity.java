@@ -83,7 +83,6 @@ public class CaptureActivity extends Activity implements Callback {
 		
 		//quit the scan view
 		cancelScanButton.setOnClickListener(new OnClickListener() {
-			
 			@Override
 			public void onClick(View v) {
 				CaptureActivity.this.finish();
