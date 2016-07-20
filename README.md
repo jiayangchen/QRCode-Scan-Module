@@ -2,7 +2,10 @@
 ZXing for Android
 
 2016-07-20 更新，对二维码扫描界面完成美化
-![image](http://github.com/jiayangchen/BarCodeTest/raw/master/qrcode.png)
+
+
+![image](http://o9oomuync.bkt.clouddn.com/githubqrcode.jpg)
+
 
 1. 修正了图片拉伸的问题
 
