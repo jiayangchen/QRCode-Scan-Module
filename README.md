@@ -1,7 +1,7 @@
 # BarCodeTest
 ZXing for Android
 
-2016-07-20 更新，对二维码扫描界面完成美化
+2016-07-20 更新，__仅针对AS版本__对二维码扫描界面完成美化
 
 
 ![image](http://o9oomuync.bkt.clouddn.com/githubqrcode.jpg)
