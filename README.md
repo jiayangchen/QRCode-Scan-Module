@@ -1,7 +1,7 @@
 # BarCodeTest
 ZXing for Android
 
-### [中文](BarCodeTest/README.md) | [English](BarCodeTest/README_EN.md)
+### [中文](https://github.com/jiayangchen/BarCodeTest/blob/master/README.md) | [English](https://github.com/jiayangchen/BarCodeTest/blob/master/README_EN.md)
 2016-07-20 更新，__仅针对AS版本__对二维码扫描界面完成美化
 
 
