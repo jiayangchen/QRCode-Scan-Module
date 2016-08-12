@@ -1,7 +1,7 @@
 # BarCodeTest
 ZXing for Android
 
-### 中文 | English
+### [中文](BarCodeTest/README.md) | English
 2016-07-20 更新，__仅针对AS版本__对二维码扫描界面完成美化
 
 
