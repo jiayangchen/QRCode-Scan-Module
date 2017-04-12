@@ -22,3 +22,7 @@ this file can be used to develop the function of QRCode Scanning, here are two o
 * Eclipse version is from the internet，can run in Eclipse，never be modified，maybe difficult to debug cause it's too old
 
 * Android Studio has been lightly modified by me and can be easier to run in AS
+
+## License
+
+MIT License
