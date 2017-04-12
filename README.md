@@ -1,4 +1,4 @@
-# BQRCode-Scan-Module
+# QRCode-Scan-Module
 ZXing for Android
 
 ### [中文](https://github.com/jiayangchen/BarCodeTest/blob/master/README.md) | [English](https://github.com/jiayangchen/BarCodeTest/blob/master/README_EN.md)
